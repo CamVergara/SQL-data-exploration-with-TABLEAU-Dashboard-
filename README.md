@@ -8,7 +8,7 @@ Part of this query is represented in this Tableau dashboard
 
 <img width="960" alt="Tableau_covid" src="https://user-images.githubusercontent.com/107360657/196616554-6bd9744d-8444-4eb7-8f89-002c81506f80.png">
 
-Lines from the query used to create the dashboard:
+Lines from the query used to create this dashboard:
 
 - "Countries with Highest Infection Rate compared to Population". From 44-48.
 - "BREAKING THINGS DOWN BY CONTINENT". From 65-74.
